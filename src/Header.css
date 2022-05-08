@@ -1,0 +1,20 @@
+#city{
+    text-align: center;
+
+}
+#cityinput{
+    width: 350px;
+    font-size: large;
+    margin-top: 20px;
+    box-shadow: 1px 1px 1px 1px #cbcaca;
+    border: none;
+}
+button{
+    /* width: 350px; */
+    margin-top: 20px;
+    font-size: large;
+    border: none;
+    background-color: blue;
+    color: white;
+    box-shadow: 1px 1px 1px 1px #cbcaca;
+}
